@@ -1,0 +1,14 @@
+C:\Users\IT\Desktop\lesson_7\lesson7.2\bin\Debug\net7.0\lesson7.2.exe
+C:\Users\IT\Desktop\lesson_7\lesson7.2\bin\Debug\net7.0\lesson7.2.deps.json
+C:\Users\IT\Desktop\lesson_7\lesson7.2\bin\Debug\net7.0\lesson7.2.runtimeconfig.json
+C:\Users\IT\Desktop\lesson_7\lesson7.2\bin\Debug\net7.0\lesson7.2.dll
+C:\Users\IT\Desktop\lesson_7\lesson7.2\bin\Debug\net7.0\lesson7.2.pdb
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.AssemblyInfoInputs.cache
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.AssemblyInfo.cs
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.dll
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\refint\lesson7.2.dll
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.pdb
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\lesson7.2.genruntimeconfig.cache
+C:\Users\IT\Desktop\lesson_7\lesson7.2\obj\Debug\net7.0\ref\lesson7.2.dll
